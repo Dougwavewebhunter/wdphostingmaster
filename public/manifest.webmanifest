@@ -1,0 +1,14 @@
+{
+  "name": "WDPHOST Hosting & Domains",
+  "short_name": "WDPHOST",
+  "description": "Premium hosting and bundled domain registration from WDPHOST.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#020611",
+  "theme_color": "#00A3FF",
+  "icons": [
+    { "src": "/wdphost-icon.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/wdphost-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
